@@ -338,12 +338,12 @@ Publish the website in the given URL.
 ### Home Page:
 ![output](home.png)
 ### People Page:
-![output](./images/images/people1.png)
+![output](people1.png)
 ### Product Page:
-![output](./images/images/product1.png)
-![output](./images/images/products.png)
+![output](product1.png)
+![output](products.png)
 ### Contacts Page:
-![output](./images/images/contacts.png)
+![output](contacts.png)
 
 ## Result:
 
