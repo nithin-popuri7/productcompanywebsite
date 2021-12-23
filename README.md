@@ -336,7 +336,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![output](./images/images/home.png)
+![output](home.png)
 ### People Page:
 ![output](./images/images/people1.png)
 ### Product Page:
